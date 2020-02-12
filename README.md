@@ -1,6 +1,4 @@
 # SeoulClustering
-Clustering project for restaurants in Seoul
+Source code for the Seoul Restaurants and Cafe Clustering project.
 
-Original article :
-
-https://www.linkedin.com/pulse/restaurants-caf%C3%A9s-seoul-simple-data-science-project-thierry-laplanche/
+Original article : https://link.medium.com/NacZfM2GR3
